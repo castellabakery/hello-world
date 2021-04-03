@@ -13,12 +13,12 @@
 ========================================================================================
 
 * 개인업무능력
- @ 핵심역량
+ > 핵심역량
   - JAVA/JSP Spring Framework
   - HTML, Javscript, JQuery, Ajax
   - Linux(CentOS 7.8, SELinux), nCloud, SVN, Git
   - MySQL, Oracle
- @ 역량증대를 위해 개인적으로 도전중인 것들
+ > 역량증대를 위해 개인적으로 도전중인 것들
   - GoF 디자인 패턴 활용
   - IoC, DI 개념 실무에서 의미있게 활용하기 위한 고찰
   - AOP를 위한 Annotation 사용
